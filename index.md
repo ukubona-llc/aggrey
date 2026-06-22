@@ -335,14 +335,14 @@ and more:
 
 ## My interpretation of TMVES
 
-| Stage | Mathematical | Organizational      | Product   |            |     |
-| ----- | ------------ | ------------------- | --------- | ---------- | --- |
-| I     | θᵗ           | Events              | Ledger    |            |     |
-| II    | L₀+ΣwᵢLᵢ     | Sensitivities       | Jacobian  |            |     |
-| III   | f(σ²,λ,ε)    | Intervention choice | Navigator |            |     |
-| IV    | γ            | εFGT                | ²         | Reflection | LLM |
-| V     | L(θᵗ⁺¹)      | Learning            | Dashboard |            |     |
-
+| Stage | Mathematical | Organizational      | Product   |          
+| ----- | ------------ | ------------------- | --------- |  
+| I     | θᵗ           | Events              | Ledger    |          
+| II    | L₀+ΣwᵢLᵢ     | Sensitivities       | Jacobian  |             
+| III   | f(σ²,λ,ε)    | Intervention choice | Navigator |            
+| IV    | `γ|εFGT|²`   | Reflection          | LLM       |
+| V     | L(θᵗ⁺¹)      | Learning            | Dashboard |   
+         
 The most interesting thing here is that you've implicitly separated:
 
 **Data**
