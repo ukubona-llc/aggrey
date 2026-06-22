@@ -9,16 +9,16 @@
 
 ---
 
-I. Negentropy / Tensor / Variance / `θᵗ` / Event-Stream / Journaling (labor or patient), Telemetry (machine), Economics (news-stream)
-II. Input / Matrix / Coupling / `L₀+Σwᵢ·Lᵢ` / Jabonian Matrix (with ROYGBIV heatmap) / FastAPI, System 1
-III. Throughput / Vector / Shock / `f(σ²,λ,ε)` / Vectors to choose from (V -> R orientation) / Append-Only NDJSON
-IV. Output / Eigenmodes / Error (& escaping local minima via "rotation") / `γ|ε_FGT|²` / Align with values / SlowAPI, System 2 (LLMs)
-   -- Language
-   -- Science
-   -- Art
-   -- Life
-   -- Meaning
-V. Entropy / Scalar / Update / `L(θᵗ⁺¹)` / Multivariable regression coeeficients, 95% CI, p-values / Multimodal UI-UX via Vite-React or Togglable LLM access
+I. Negentropy / Tensor / Variance / `θᵗ` / Event-Stream / Journaling (labor or patient), Telemetry (machine), Economics (news-stream)      
+II. Input / Matrix / Coupling / `L₀+Σwᵢ·Lᵢ` / Jabonian Matrix (with ROYGBIV heatmap) / FastAPI, System 1        
+III. Throughput / Vector / Shock / `f(σ²,λ,ε)` / Vectors to choose from (V -> R orientation) / Append-Only NDJSON     
+IV. Output / Eigenmodes / Error (& escaping local minima via "rotation") / `γ|ε_FGT|²` / Align with values / SlowAPI, System 2 (LLMs)    
+   -- Language         
+   -- Science    
+   -- Art     
+   -- Life     
+   -- Meaning     
+V. Entropy / Scalar / Update / `L(θᵗ⁺¹)` / Multivariable regression coeeficients, 95% CI, p-values / Multimodal UI-UX via Vite-React or Togglable LLM access          
 
 TMVES = f(VCSEU) ~ adversarial training
 
