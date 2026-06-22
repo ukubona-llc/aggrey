@@ -342,7 +342,7 @@ and more:
 | III   | f(σ²,λ,ε)    | Intervention choice | Navigator |            
 | IV    | `γ|εFGT|²`   | Reflection          | LLM       |
 | V     | L(θᵗ⁺¹)      | Learning            | Dashboard |   
-         
+
 The most interesting thing here is that you've implicitly separated:
 
 **Data**
@@ -919,6 +919,7 @@ Root: `/Users/hades/Documents/ukubona-grand-central`
 
 ## Counts by Extension
 
+```md
 | Ext | Count | Size |
 |-----|------:|-----:|
 | .jsx | 100 | 1.9MB |
